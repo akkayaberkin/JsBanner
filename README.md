@@ -10,4 +10,4 @@ photos:Bu dizimizin içine istediğiniz fotoğraf yolunu tanımlayarak döngüye
 
 Fotoğrafların Boyutu Yüksektir.
 
-Kullanıcak Arkadaşlara Başarılar.
+Kullanacak Arkadaşlara Başarılar.
